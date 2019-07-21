@@ -34,7 +34,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Authors
 
-* **Ricardo Avendaño** - *Initial work* - [chillguire](https://github.com/chillguire)
+* **Ricardo Avendaño** - [chillguire](https://github.com/chillguire)
 
 ## License
 
