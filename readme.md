@@ -42,7 +42,6 @@ This project is licensed under the MIT License - see the [license.md](license.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Thanks to *Jacopo Rabolini* [KingFelix](https://github.com/KingFelix) for the blog template!
+
 
