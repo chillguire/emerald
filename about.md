@@ -1,21 +1,17 @@
 ---
 layout: page
-title: About Emerald
+title: Acerda de Telecomly
 ---
-## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
+## Telecomly
 
-![Emerald](img/Emerald01.png "Emerald")
+Telecomly es un blog sencillo creado con Jekyll. Corresponde a un trabajo dentro de la clase de Comunicaciones II en la Universidad Bicentenaria de Aragua, por lo que su propósito principal es mostrar información sobre telecomunicaciones, específicamente, microondas.
 
-### Setup
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
+Se utilizó como base la plantilla de un tema creado por *Jacopo Rabolini* ([KingFelix](https://github.com/KingFelix)), para más detalles, pueden visitar el [repositorio original en Github](https://github.com/KingFelix/emerald/).
 
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
+También se puede visitar el [repositorio modificado por el autor](https://github.com/chillguire/telecomly).
 
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root. 
 
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
+## Autores
 
-Enjoy!
+* **Ricardo Avendaño** - [chillguire](https://github.com/chillguire)
