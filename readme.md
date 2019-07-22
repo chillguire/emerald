@@ -1,36 +1,6 @@
 # Telecomly
 
-One Paragraph of project description goes here
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+This is a blog-project made for my communications II class. Doesn't really have anything special or techy in it, in fact, i just used a template and modified it a little. But in case you want to use it, feel free to grab and modify it as you please.
 
 ## Authors
 
@@ -43,5 +13,3 @@ This project is licensed under the MIT License - see the [license.md](license.md
 ## Acknowledgments
 
 * Thanks to *Jacopo Rabolini* ([KingFelix](https://github.com/KingFelix)) for providing the [blog template](https://github.com/KingFelix/emerald).
-
-
