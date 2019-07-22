@@ -17,4 +17,4 @@ También se puede visitar el [repositorio modificado por el autor](https://githu
 
 ## Autores
 
-* **Ricardo Avendaño** - [chillguire](https://github.com/chillguire)
+* Ricardo Avendaño - [chillguire](https://github.com/chillguire)
