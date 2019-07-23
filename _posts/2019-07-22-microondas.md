@@ -2,7 +2,7 @@
 title: "Introducción a las microondas"
 ---
 
-Las microondas son una de las formas que adopta la [radiación electromagnética](https://chillguire.github.io/telecomly/radiacion) bajo ciertas condiciones de ondas con muy alta frecuencia (y por tanto, menor longitud de onda).
+Las microondas son una de las formas que adopta la [radiación electromagnética](<#>) bajo ciertas condiciones de ondas con muy alta frecuencia (y por tanto, menor longitud de onda).
 
 Se producen mediante tubos de vacío especializados que mediante la inserción y movimiento uniforme de cargas de electrones, producen campos eléctricos que debido al movimiento balístico de los electrones bajo la influencia del campo eléctrico (o magnético) generan ondas de microondas. Algunos dispositivos ampliamente utilizados dentro de antenas, hornos de microondas y radares son los siguientes:
 
@@ -16,11 +16,11 @@ La mayoría de dispositivos funciona con principios del máser, un dispositivo d
 
 ### Frecuencias, longitud de onda, ancho de banda y caracteristicas
 
-Tienen [frecuencias](https://chillguire.github.io/telecomly/propiedades) de entre 300 MHz y 300 GHz, sin embargo, en telecomunicaciones es más usual encontrar su rango entre 1 y 100 GHz. De forma general, siempre tienen muy alta frecuencia, con longitudes de entre 1m(300MHz) y 1mm(300GHz) y por lo tanto se encuentran entre la [clasificación de frecuencias](https://chillguire.github.io/telecomly/propiedades) de UHF(300 MHz a 3 GHz), SHF(3 GHz a 30 GHz) y EHF(30 GHz a 300 GHz). Independientemente del criterio usado para clasificar las ondas microondas, siempre pertenecen a la clasificación de SHF, de 3 GHz a 30 GHz con longitud de onda de entre 1dm y 1cm. Tienen un ancho de banda muy alto debido a sus altas frecuencias, y es por ello que son ampliamente utilizados en telecomunicaciones.
+Tienen [frecuencias](<#>) de entre 300 MHz y 300 GHz, sin embargo, en telecomunicaciones es más usual encontrar su rango entre 1 y 100 GHz. De forma general, siempre tienen muy alta frecuencia, con longitudes de entre 1m(300MHz) y 1mm(300GHz) y por lo tanto se encuentran entre la [clasificación de frecuencias](#) de UHF(300 MHz a 3 GHz), SHF(3 GHz a 30 GHz) y EHF(30 GHz a 300 GHz). Independientemente del criterio usado para clasificar las ondas microondas, siempre pertenecen a la clasificación de SHF, de 3 GHz a 30 GHz con longitud de onda de entre 1dm y 1cm. Tienen un ancho de banda muy alto debido a sus altas frecuencias, y es por ello que son ampliamente utilizados en telecomunicaciones.
 
 ### Propagación y topología de terreno
 
-En la propagación, la tolerancia y resistencia a la presencia de obstáculos disminuye con el aumento de la frecuencia de la onda. Es por ello que para la propagación de ondas de microondas se utilizan técnicas que omiten en su mayor parte obstáculos, principalmente se propagan por [línea de visión y por dispersión tropósferica](https://chillguire.github.io/telecomly/propagacion).
+En la propagación, la tolerancia y resistencia a la presencia de obstáculos disminuye con el aumento de la frecuencia de la onda. Es por ello que para la propagación de ondas de microondas se utilizan técnicas que omiten en su mayor parte obstáculos, principalmente se propagan por [línea de visión y por dispersión tropósferica]().
 
 Línea de visión se basa en la colocación de antenas transmisoras y receptoras en el campo de visión de cada una con el menor número de obstáculos entre ellas, es por ello que se encuentran en su mayoría en lugares altos. Dispersión tropósferica se basa en el lanzamiento de la onda al horizonte en dirección de la antena receptora, de manera que esta ascienda a la troposfera y disperse parte de la onda de vuelta a la tierra, donde se encuentra la estación receptora.
 
