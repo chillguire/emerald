@@ -4,7 +4,7 @@ title: "Radiación electromagnética"
 
 La radiación electromagnética se produce por campos electromagnéticos, en donde existen elementos en movimiento (generalmente rotación) cerca del flujo de electrones o dentro del campo de acción de un imán, que en consecuencia, generan ondas con distintas características, como la [frecuencia, la longitud o el ancho de banda](https://chillguire.github.io/telecomly/propiedades) de una onda.
 
-Uno de los tipos de ondas más característicos son las [microondas](/telecomly/_post/2019-07-22-microondas.md).
+Uno de los tipos de ondas más característicos son las [microondas](https://chillguire.github.io/telecomly/microondas).
 
 ![*Imagen de antena*](/telecomly/img/blogImg1.jpg "Antena")
 
