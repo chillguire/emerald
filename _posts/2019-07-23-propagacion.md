@@ -2,6 +2,8 @@
 title: "Métodos de propagación de ondas"
 ---
 
+Existen múltiples maneras de propagar las ondas para su posterior desmodulación o transmisión. Estas técnicas varian de acuerdo a factores como la frecuencia de la onda, debido a que mientras mayor sea la frecuencia, menos tolerancia a los obstáculos tendrá y causará pérdidas en la onda. Entre las técnicas principales se encuentran:
+
 ## Propagación por línea de visión
 
 Se refiere a la propagación de ondas en línea recta con el menor número de obstáculos entre el transmisor y el receptor de la onda. Las ondas pueden ser [difractados, refractados, reflejados](#) debido a los obstáculos como montañas o edificios, y en general no pueden viajar sobre el horizonte sin ser absorbidos por ciertas capas de la atmósfera; es por esto que la propagación por línea de visión hace referencia al alcance visual entre la antena emisora y receptora, por lo que debe existir el menor número de obstáculos posibles entre ambas.
