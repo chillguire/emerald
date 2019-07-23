@@ -2,12 +2,12 @@
 title: "Regulación de la radiación electromagnética"
 ---
 
-La [radiación electromagnética](#) es uno de los hallazgos más importantes dentro de la historia de la humanidad; se ha convertido en parte de la vida cotidiana en la sociedad actual dado su gran potencial y utilidad en las comunicaciones en masa y en electrodomésticos que hacen de distintas actividades una labor más sencilla, es por ello que es importante su administración y normalización, para evitar posibles ataques que vayan desde la vulnerabilidad de la privacidad de personas hasta ataques en masa realizados por grupos de odio. En resumen, se ha convertido en un bien básico como lo es el agua, la luz y el transporte público debido a todas sus utilidades.
+La [radiación electromagnética](https://chillguire.github.io/telecomly/radiacion) es uno de los hallazgos más importantes dentro de la historia de la humanidad; se ha convertido en parte de la vida cotidiana en la sociedad actual dado su gran potencial y utilidad en las comunicaciones en masa y en electrodomésticos que hacen de distintas actividades una labor más sencilla, es por ello que es importante su administración y normalización, para evitar posibles ataques que vayan desde la vulnerabilidad de la privacidad de personas hasta ataques en masa realizados por grupos de odio. En resumen, se ha convertido en un bien básico como lo es el agua, la luz y el transporte público debido a todas sus utilidades.
 
 
 ## Interferencia entre ondas
 
-Las interferencias son cualquier proceso que se da entre ondas cuya salida altera, modifica o destruye la señal que lleva los datos deseados en su trayecto en el canal que une el emisor y el receptor. El proceso se basa, principalmente, en la superposición de las ondas con misma [frecuencia](#) o muy parecida, donde se suman o restan sus datos dependiendo del valor de “y” que tenga las ondas en el momento de superponerse. Se pueden dar de varias maneras:
+Las interferencias son cualquier proceso que se da entre ondas cuya salida altera, modifica o destruye la señal que lleva los datos deseados en su trayecto en el canal que une el emisor y el receptor. El proceso se basa, principalmente, en la superposición de las ondas con misma [frecuencia](https://chillguire.github.io/telecomly/propiedades) o muy parecida, donde se suman o restan sus datos dependiendo del valor de “y” que tenga las ondas en el momento de superponerse. Se pueden dar de varias maneras:
 
 ### Frecuencias diferentes
 
