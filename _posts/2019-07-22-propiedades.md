@@ -5,9 +5,9 @@ title: "Propiedades de las ondas electromagnéticas"
 * Frecuencia: Es una *magnitud* que mide la cantidad de repeticiones que se dan en un período de tiempo. Se utiliza la unidad del Hercio (Hz), cuya unidad promedio equivale a una repetición sobre segundo.
 
 * Período: El *tiempo* transcurrido que separa dos instancias de la onda (o cualquier otro fenómeno cíclico) en el momento donde cuentan con el mismo estado: misma posición, frecuencia o amplitud de onda.
-Es el tiempo que tarda en repetirse un fenómeno periódico (ya lo dice el nombre). En el estadio es el tiempo que transcurre desde que te has levantado hasta que te toca volver a levantarte.
+Es el tiempo que tarda en repetirse un fenómeno periódico. En el estadio es el tiempo que transcurre desde que te has levantado hasta que te toca volver a levantarte.
 
-* Longitud de onda: Las distancia entre dos instancias de la onda es conocido como longitud de onda. Por dependencia lineal, a mayor sea la frecuencia de la onda, menor será su longitud. Por lo tanto, las [ondas microondas](#), tienen una longitud de onda muy pequeña.
+* Longitud de onda: Las distancia entre dos instancias de la onda es conocido como longitud de onda. Por dependencia lineal, a mayor sea la frecuencia de la onda, menor será su longitud. Por lo tanto, las [ondas microondas](https://chillguire.github.io/telecomly/microondas), tienen una longitud de onda muy pequeña.
 
 * Ancho de banda: Es el rango de las frecuencias dentro de una onda, en donde se encuentra una señal con información.
 
@@ -19,7 +19,7 @@ Es el tiempo que tarda en repetirse un fenómeno periódico (ya lo dice el nombr
 
 * Difracción: Se basa en la desviación del flujo de las ondas al encontrar un obstáculo o atravesar una abertura de menor tamaño que el pico de las ondas.
 
-* Interferencia: Se basa en la superposición de las ondas con misma frecuencia o muy parecida, donde se suman o restan sus datos dependiendo del valor de “y” que tenga las ondas en el momento de superponerse. Se puede leer más de los tipos de interferencias [aquí](#).
+* Interferencia: Se basa en la superposición de las ondas con misma frecuencia o muy parecida, donde se suman o restan sus datos dependiendo del valor de “y” que tenga las ondas en el momento de superponerse. Se puede leer más de los tipos de interferencias [aquí](https://chillguire.github.io/telecomly/regulacion).
 
 ## Clasificación de frecuencias (espectro electromagnético)
 
