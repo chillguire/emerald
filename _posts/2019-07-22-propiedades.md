@@ -17,7 +17,7 @@ Es el tiempo que tarda en repetirse un fenómeno periódico (ya lo dice el nombr
 
 * Refracción: Es el cambio de dirección de una onda después de entrar en contacto con una superficie.
 
-* Difracción: Se basa en la desviación del flujo de las ondas al encontrar un obstaculo o atravesar una abertura de menor tamaño que el pico de las ondas.
+* Difracción: Se basa en la desviación del flujo de las ondas al encontrar un obstáculo o atravesar una abertura de menor tamaño que el pico de las ondas.
 
 * Interferencia: Se basa en la superposición de las ondas con misma frecuencia o muy parecida, donde se suman o restan sus datos dependiendo del valor de “y” que tenga las ondas en el momento de superponerse. Se puede leer más de los tipos de interferencias [aquí](#).
 
@@ -25,7 +25,7 @@ Es el tiempo que tarda en repetirse un fenómeno periódico (ya lo dice el nombr
 
 ### Ondas de microondas y de radio
 
-Las ondas de radio son principalmente las recibidas y emitadas por antenas que mediante un transmisor que genera energía eléctrica alterna, que convierten energía eléctrica y magnética oscilante en campos eléctricos y magnéticos, que se traducen en la salida de las antenas en forma de ondas de radio (de ELF a VHF apróximadamente) e imitan y modulan la información en esas ondas para enviarse a las antenas receptoras, que realizan la función inversa para desmodular la onda.
+Las ondas de radio son principalmente las recibidas y emitidas por antenas que mediante un transmisor que genera energía eléctrica alterna, que convierten energía eléctrica y magnética oscilante en campos eléctricos y magnéticos, que se traducen en la salida de las antenas en forma de ondas de radio (de ELF a VHF aproximadamente) e imitan y modulan la información en esas ondas para enviarse a las antenas receptoras, que realizan la función inversa para desmodular la onda.
 
 Las ondas de microondas son bajo ciertas condiciones de ondas con muy alta frecuencia. Son capaces de mover átomos de hidrógeno y por lo tanto se utilizan en hornos de microondas, al igual que en telecomunicaciones debido a su amplio ancho de banda útil para la transferencia de datos.
 
@@ -45,9 +45,9 @@ Las ondas de microondas son bajo ciertas condiciones de ondas con muy alta frecu
 
 ### Radiación de infrarrojos, ultravioletas y el espectro visible
 
-La radiación infrarroja es producida por cuerpos que generan calor y por dispositivos como diodos emisores de luz y ciertos láseres. Son utilizadas para sistemas especiales de comunicaciones como en astronomía, con el fin de dectar estrellas y cuerpos en los que el calor generado ayuda a descubrir nuevos cuerpos móviles en la oscuridad del espacio. También es utilizado en mandos a distancia como los controles de televisores, en los que el transmisor (el mando) envía una señal al receptor del televisor.
+La radiación infrarroja es producida por cuerpos que generan calor y por dispositivos como diodos emisores de luz y ciertos láseres. Son utilizadas para sistemas especiales de comunicaciones como en astronomía, con el fin de detectar estrellas y cuerpos en los que el calor generado ayuda a descubrir nuevos cuerpos móviles en la oscuridad del espacio. También es utilizado en mandos a distancia como los controles de televisores, en los que el transmisor (el mando) envía una señal al receptor del televisor.
 
-La radiación visible se refiere a la luz, un tipo de radiación electromagnética que es perceptible por el ojo humano, y en consecuencia produce diversos espectros de colores. En este rango el sol y las estrellas emiten la mayor parte de su radiación. Se utiliza generalmente para modularse y transmitirsse en fibras ópticas.
+La radiación visible se refiere a la luz, un tipo de radiación electromagnética que es perceptible por el ojo humano, y en consecuencia produce diversos espectros de colores. En este rango el sol y las estrellas emiten la mayor parte de su radiación. Se utiliza generalmente para modularse y transmitirse en fibras ópticas.
 
 | Nombre |   Frecuencia   | Longitud de onda |
 |:------:|:--------------:|:----------------:|
@@ -62,7 +62,7 @@ La radiación ultravioleta (UV) es una rango de la radiación producida en gran 
 
 Los rayos X son radiaciones electromagnéticas invisibles con la capacidad de atravesar cuerpos opacos.
 
-Los rayos gamma son radiaciones electromagnéticas producidas por elementos radiactivos o procesos atómicos de gran potencia. Irradían grandes cantidades de energía y son capaces de penetrar la materia muy profundamente, por lo que son tuilizados para esterilizar instrumentos médicos y alimentos.
+Los rayos gamma son radiaciones electromagnéticas producidas por elementos radiactivos o procesos atómicos de gran potencia. Irradian grandes cantidades de energía y son capaces de penetrar la materia muy profundamente, por lo que son utilizados para esterilizar instrumentos médicos y alimentos.
 
 | Nombre |   Frecuencia   | Longitud de onda |
 |:------:|:--------------:|:----------------:|
