@@ -6,7 +6,7 @@ Existen múltiples maneras de propagar las ondas para su posterior desmodulació
 
 ## Propagación por línea de visión
 
-Se refiere a la propagación de ondas en línea recta con el menor número de obstáculos entre el transmisor y el receptor de la onda. Las ondas pueden ser [difractados, refractados, reflejados](#) debido a los obstáculos como montañas o edificios, y en general no pueden viajar sobre el horizonte sin ser absorbidos por ciertas capas de la atmósfera; es por esto que la propagación por línea de visión hace referencia al alcance visual entre la antena emisora y receptora, por lo que debe existir el menor número de obstáculos posibles entre ambas.
+Se refiere a la propagación de ondas en línea recta con el menor número de obstáculos entre el transmisor y el receptor de la onda. Las ondas pueden ser [difractados, refractados, reflejados](https://chillguire.github.io/telecomly/propiedades) debido a los obstáculos como montañas o edificios, y en general no pueden viajar sobre el horizonte sin ser absorbidos por ciertas capas de la atmósfera; es por esto que la propagación por línea de visión hace referencia al alcance visual entre la antena emisora y receptora, por lo que debe existir el menor número de obstáculos posibles entre ambas.
 
 ![*Imagen de antena*](/telecomly/img/blogImg4.jpg "Antena")
 
