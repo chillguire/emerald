@@ -4,11 +4,11 @@ title: "Radiación electromagnética"
 
 La radiación electromagnética se produce por campos electromagnéticos, en donde existen elementos en movimiento (generalmente rotación) cerca del flujo de electrones o dentro del campo de acción de un imán, que en consecuencia, generan ondas con distintas características, como la [frecuencia, la longitud o el ancho de banda](#) de una onda.
 
-Uno de los tipos de ondas más caraterísticos son las [microondas](#).
+Uno de los tipos de ondas más característicos son las [microondas](#).
 
 ### Ondas electromagnéticas
 
-Estas ondas producidas de manera electromagneticamente se diferencian de de ondas con otros origenes o otra naturaleza, como las ondas acústicas, puesto que no requieren de ningún medio específico para propargase; se pueden mover en el vacío y todo tipo de terrenos si sus propiedades lo permiten. 
+Estas ondas producidas de manera electromagnética se diferencian de de ondas con otros orígenes o otra naturaleza, como las ondas acústicas, puesto que no requieren de ningún medio específico para propagarse; se pueden mover en el vacío y todo tipo de terrenos si sus propiedades lo permiten. 
 
 ### Espectro electromagnético
 
