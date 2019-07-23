@@ -6,7 +6,9 @@ title: "Métodos de propagación de ondas"
 
 Se refiere a la propagación de ondas en línea recta con el menor número de obstáculos entre el transmisor y el receptor de la onda. Las ondas pueden ser [difractados, refractados, reflejados](#) debido a los obstáculos como montañas o edificios, y en general no pueden viajar sobre el horizonte sin ser absorbidos por ciertas capas de la atmósfera; es por esto que la propagación por línea de visión hace referencia al alcance visual entre la antena emisora y receptora, por lo que debe existir el menor número de obstáculos posibles entre ambas.
 
-De forma general, la tolerancia y resistencia a la presencia de obstáculos en una propagación disminuye con el aumento de la frecuencia de la onda. En una comunicación digital de alta frecuencia como Wifi, los enlaces deben transportar una gran cantidad de datos de manera eficiente y rápida, por lo que es necesario un ancho de banda muy alto lo que acarrea una mayor frecuencia de la onda y es por ello que se utiliza la propagación por línea de visión en estas tecnologías.
+![*Imagen de antena*](/telecomly/img/blogImg4.jpg "Antena")
+
+De forma general, la tolerancia y resistencia a la presencia de obstáculos en una propagación disminuye con el aumento de la frecuencia de la onda. En una comunicación digital de alta frecuencia como Wifi, los enlaces deben transportar una gran cantidad de datos de manera eficiente y rápida, por lo que es necesario un ancho de banda muy alto lo que acarrea una mayor frecuencia de la onda y es por ello que se utiliza la propagación por línea de visión en estas tecnologías. Es por esto que las antenas suelen verse construidas en lugares altos.
 
 ## Propagación por tierra
 
