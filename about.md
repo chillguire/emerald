@@ -5,7 +5,7 @@ title: Acerda de Telecomly
 
 ## Telecomly
 
-Telecomly es un blog sencillo creado con Jekyll. Corresponde a un trabajo dentro de la clase de Comunicaciones II en la Universidad Bicentenaria de Aragua, por lo que su propósito principal es mostrar información sobre telecomunicaciones, específicamente, microondas.
+Telecomly es un blog sencillo creado con Jekyll. Corresponde a un trabajo dentro de la clase de Comunicaciones II en la Universidad Bicentenaria de Aragua, por lo que su propósito principal es mostrar información sobre telecomunicaciones, específicamente, las ondas microondas.
 
 ![*Imagen de antena*](/telecomly/img/blogImg1.jpg "Antena")
 
