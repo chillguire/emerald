@@ -62,6 +62,8 @@ La radiación ultravioleta (UV) es una rango de la radiación producida en gran 
 
 Los rayos X son radiaciones electromagnéticas invisibles con la capacidad de atravesar cuerpos opacos.
 
+![*Imagen de rayos x*](/telecomly/img/blogImg3.jpg "Rayos X")
+
 Los rayos gamma son radiaciones electromagnéticas producidas por elementos radiactivos o procesos atómicos de gran potencia. Irradian grandes cantidades de energía y son capaces de penetrar la materia muy profundamente, por lo que son utilizados para esterilizar instrumentos médicos y alimentos.
 
 | Nombre |   Frecuencia   | Longitud de onda |
